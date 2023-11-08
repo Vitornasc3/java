@@ -3,6 +3,7 @@ package aula_02;
 import java.util.Scanner;
 
 public class Ativ3 {
+	
 	static Scanner leia = new Scanner(System.in);
 
 	public static void main(String[] args) {
