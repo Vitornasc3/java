@@ -12,14 +12,14 @@ public class Exerc06 {
 		Stack<String> livros = new Stack<String>();
 		Integer opcao = 1;
 
-		System.out.println("***************************************************");
-		System.out.println("\n	1 - Adicionar livro na pilha");
-		System.out.println("	2 - Listar todos os livros");
-		System.out.println("	3 - Retirar livro da pilha");
-		System.out.println("	0 - Sair");
-		System.out.println("\n***************************************************");
-
 		while (opcao != 0) {
+			
+			System.out.println("***************************************************");
+			System.out.println("\n	1 - Adicionar livro na pilha");
+			System.out.println("	2 - Listar todos os livros");
+			System.out.println("	3 - Retirar livro da pilha");
+			System.out.println("	0 - Sair");
+			System.out.println("\n***************************************************");
 
 			System.out.print("\nInsira a opção desejada: ");
 			opcao = leia.nextInt();
