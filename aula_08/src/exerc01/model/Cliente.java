@@ -71,7 +71,6 @@ public class Cliente {
 		System.out.println("Idade: " + this.getIdade());
 		System.out.println("Endereço: " + this.getEndereço());
 		System.out.println("Tel: " + this.getTel());
-		System.out.println("-----------------------------");
 		
 	}
 
